@@ -48,7 +48,7 @@
   "homepage": "https://github.com/mypwhas9letters/simple-react-google-maps#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mypwhas9letters/simple-react-google-maps.git"
+    "url": "git+https://github.com/fullstackjohnmack/simple-react-google-maps.git"
   },
   "dependencies": {
     "prop-types": "^15.6.1",
