@@ -1,7 +1,7 @@
 {
-  "name": "simple-react-google-maps",
-  "version": "1.1.2",
-  "description": "Quick and easy Google Maps package for React.",
+  "name": "simple-react-google-maps-plus",
+  "version": "1.0.0",
+  "description": "Quick and easy Google Maps package for React forked from mypwhas9letters project simple-react-google-maps.",
   "main": "lib/index.js",
   "scripts": {
     "dev": "concurrently \"npm run lib:watch\" \"npm run docs\"",
@@ -44,10 +44,10 @@
     "webpack-dev-server": "^3.3.1"
   },
   "author": "mypwhas9letters",
-  "homepage": "https://github.com/mypwhas9letters/simple-react-google-maps#readme",
+  "homepage": "https://github.com/fullstackjohnmack/simple-react-google-maps#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mypwhas9letters/simple-react-google-maps.git"
+    "url": "git+https://github.com/fullstackjohnmack/simple-react-google-maps.git"
   },
   "dependencies": {
     "prop-types": "^15.6.1",
